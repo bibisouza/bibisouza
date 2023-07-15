@@ -1,7 +1,13 @@
 ## Oi, eu sou Beatriz!
  <div>
+  <p>Software Engineering (5/8)</p>
+  <p>From Brazil</p>
+  <p>I'm interested in Frontend Development and Web Design</p>
+  <p>I love to learn new things</p>
+ </div>
+ 
+ <div>
   <a href="https://github.com/bibisouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bibisouza&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibisouza&layout=compact&langs_count=7&theme=panda"/>
 </div>
 
