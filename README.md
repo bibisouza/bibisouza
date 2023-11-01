@@ -1,6 +1,6 @@
 ## Oi, eu sou Beatriz!
  <div>
-  <p>Software Engineering (5/8)</p>
+  <p>Software Engineering (6/8)</p>
   <p>From Brazil</p>
   <p>I'm interested in Frontend Development and Web Design</p>
   <p>I love to learn new things</p>
