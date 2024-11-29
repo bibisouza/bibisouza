@@ -2,6 +2,7 @@
  <div>
   <p>Software Engineering (8/8)</p>
   <p>From Brazil</p>
+  <p>Reach me: souzaxbia@outlook.com</p>
   <p>I love to learn new things</p>
  </div>
  
