@@ -1,6 +1,6 @@
 ## Oi, eu sou Beatriz!
  <div>
-  <p>Software Engineering (7/8)</p>
+  <p>Software Engineering (8/8)</p>
   <p>From Brazil</p>
   <p>I love to learn new things</p>
  </div>
